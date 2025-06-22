@@ -21,7 +21,7 @@ npm run dev
 # http://localhost:5173
 
 # SSR/SSG projesi (Next.js)
-cd ssr-proje-temiz
+cd ssr-proje
 npm install
 npm run dev
 # http://localhost:3000
