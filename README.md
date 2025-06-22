@@ -4,14 +4,14 @@ SPA(tek sayfa web sitesi) için CSR,SSR ve SSG yöntemlerinin optimizasyon ve pe
 SPA SEO & Performans Karşılaştırma Projesi (CSR, SSR, SSG)
 Bu proje, tek sayfa uygulamaların (SPA) üç farklı render stratejisi olan CSR (Client-Side Rendering), SSR (Server-Side Rendering) ve SSG (Static Site Generation) yöntemlerini karşılaştırmalı olarak analiz etmek amacıyla geliştirilmiştir.
 
-🎯 Amaç
+ Amaç
 Render yöntemlerinin SEO uyumluluğunu ve ilk boyama süresine (FCP) etkisini ölçmek
 API çağrılı dinamik içeriklerde hangi yöntemin daha avantajlı olduğunu belirlemek
 Lighthouse verileri ile teknik kıyaslama yapmak
-📁 Proje Yapısı
-📦 root ├── csr-proje # Vite + React (CSR) ├── ssr-proje-temiz # Next.js (SSR ve SSG içerir) │ ├── pages │ │ ├── index.js # SSR örneği │ │ └── static-blog.js # SSG örneği
+ Proje Yapısı
+ root ├── csr-proje # Vite + React (CSR) ├── ssr-proje-temiz # Next.js (SSR ve SSG içerir) │ ├── pages │ │ ├── index.js # SSR örneği │ │ └── static-blog.js # SSG örneği
 
-🚀 Kurulum
+ Kurulum
 Node.js yüklü olmalıdır. (v18+ önerilir)
 
 ## CSR projesi (Vite + React)
@@ -33,7 +33,7 @@ npm run dev
 # http://localhost:5173/
 
 
-## 🔍 Test Araçları
+##  Test Araçları
  Chrome Lighthouse (Performance + SEO)
 
  WebPageTest (isteğe bağlıdır)
@@ -57,7 +57,7 @@ Lighthouse Sonuçları (Özet)
 
 
 ## Katkı ve Geliştirme
-Bu repo akademik amaçlı hazırlanmıştır. Forklayabilir, yıldız verebilir ya da katkıda bulunabilirsiniz ⭐
+Bu repo akademik amaçlı hazırlanmıştır. Forklayabilir, yıldız verebilir ya da katkıda bulunabilirsiniz 
 
 ## Lisans
 MIT Lisansı.
