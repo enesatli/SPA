@@ -50,14 +50,11 @@ Lighthouse Sonuçları (Özet)
 ## Önerilen Kullanım Senaryoları
 | Durum                                     | En Uygun Yöntem   |
 | ----------------------------------------- | --------------    |
-| SEO öncelikli sayfa (Blog, Ürün)          | ✅ SSG / SSR     |
-| Sık değişen veri, kullanıcıya özel içerik | ✅ SSR           |
-| Hızlı SPA deneyimi, az sayfa değişimi     | ✅ CSR           |
+| SEO öncelikli sayfa (Blog, Ürün)          |  SSG / SSR     |
+| Sık değişen veri, kullanıcıya özel içerik |  SSR           |
+| Hızlı SPA deneyimi, az sayfa değişimi     |  CSR           |
 
 
-
-## Katkı ve Geliştirme
-Bu repo akademik amaçlı hazırlanmıştır. Forklayabilir, yıldız verebilir ya da katkıda bulunabilirsiniz 
 
 ## Lisans
 MIT Lisansı.
